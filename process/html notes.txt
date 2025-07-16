@@ -1,0 +1,44 @@
+html-1991(bernerslee)
+1995-published
+hypertext markup language(scripting)
+website is a collection of webpages
+3 types of webpage:static webpage,dynamic webpage,server webpage
+static ex:irctc,indian railways,net banking(difficult to update or modify)
+dynamic example:newswebsite,shopping sites,songsdownloading sites(easy to update or modify)
+server example:server page(combination of static and dynamic)
+Tags:2 types
+.container tags or pair tags(opening and closing tags)
+.empty or single tags(only opening tag)
+there are heading tags
+h1,h2,h3,h4,h5,h6
+text format tags:bold<b>,italic<i>,underline<u>,strike through<strike>,sub script<sub>,super script<sup>,strong<strong>
+<marquee>it is used to scroll the given text
+we can scroll in different directions,speed,background change.
+to change speed use scrollamount
+bullets are called unorderedlist
+numbering are called orderedlist
+list and orderd list are called container tags
+Links:
+1.text links
+2.Image links
+Table tags:
+<table>   </table>
+for row:<tr> </tr>
+for column:<td> </td>
+header and footer are tags
+cell padding and spacing are attributes
+rowspan,colspan are attributes
+9 alignments:top left,top center,top right
+middle left,middle center,middle right
+bottom left,bottom center,bottom right
+align:left ,center,right
+valign:top,middle,bottom
+3 types of links:
+1.standard link-link
+2.visited link-Vlink
+3.active link-Alink
+
+
+
+
+
